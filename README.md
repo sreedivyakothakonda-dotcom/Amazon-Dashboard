@@ -25,5 +25,4 @@ revenue trends, product performance, and customer purchasing behavior.
 ## 🚀 Learning Outcome
 - Improved data modeling and DAX skills
 - Hands-on experience with business-focused dashboards
-- Strong portfolio project for Data Analyst roles
-Click Commit changes ✅
+
